@@ -1,7 +1,7 @@
 # PCB Design for ATmega328P-AU Based Project
 
 This repository contains the design and details of the PCB for a project based on the ATmega328P-AU microcontroller. The PCB includes various components such as oscillators, capacitors, resistors, LEDs, and other essential SMD (Surface-Mount Device) components.
-![Enclosure Design](https://github.com/shaveenherath/Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV-/blob/main/Enclosure/enclosure1.png)
+![PCB Design](https://github.com/shaveenherath/Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV-/blob/main/PCBs/PCB.jpg)
 ## Components
 
 - **ATmega328P-AU**: The microcontroller used for the project.
