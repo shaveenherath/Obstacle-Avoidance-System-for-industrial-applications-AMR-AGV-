@@ -3,7 +3,7 @@
 This repository documents the design and construction of the enclosure for the Obstacle Avoidance Robot. The enclosure is built using an aluminum (Al) frame, providing a robust and lightweight housing for the robot's components.
 
 
-![Enclosure Design](images/enclosure_design.jpg)
+![Enclosure Design](Enclosure/enclosure.png)
 
 ## Features
 
