@@ -3,7 +3,7 @@
 This repository documents the design and construction of the enclosure for the Obstacle Avoidance Robot. The enclosure is built using an aluminum (Al) frame, providing a robust and lightweight housing for the robot's components.
 
 
-![Enclosure Design](Project Documents/enclosure.png)
+![Enclosure Design]([Project Documents/enclosure.png](https://github.com/shaveenherath/Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV-/blob/main/Enclosure/enclosure.png))
 
 ## Features
 
